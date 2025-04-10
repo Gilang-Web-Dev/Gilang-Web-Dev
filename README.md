@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hello, let me introduce myself, my name is Gilang Raga Yudistira and I am a student currently studying at the State University of Surabaya majoring in Information Technology Education. This is a collection of brief information from me.
 <!--
 **Gilang-Web-Dev/Gilang-Web-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
